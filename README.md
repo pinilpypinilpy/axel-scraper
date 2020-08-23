@@ -9,7 +9,7 @@ git clone https://github.com/pinilpypinilpy/axel-scraper/
 
 cd axel-scraper
 
-bash scraper.sh http://your.url.here/your/target/directory/here/
+bash scrape.sh http://your.url.here/your/target/directory/here/
 
 output files are stored in the "downloads" directory
 
